@@ -59,6 +59,8 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        android:layout_marginRight="@dimen/defaultMargin"/>
+        android:layout_marginRight="@dimen/defaultMargin"
+        app:tint="@color/yellow"
+    />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
